@@ -19,7 +19,7 @@
 git clone https://github.com/your-username/simple-calculator.git
 프로젝트 디렉토리로 이동합니다.
 ```
-bash
+```bash
 cd simple-calculator
 브라우저에서 index.html 파일을 엽니다.
 ```
